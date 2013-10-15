@@ -1,0 +1,80 @@
+{ "tints" : [{
+	"brand" : "Madico",
+	"products" : [
+		{
+			"name" : "Charcool",
+			"shades": [
+				{ "id" : "5 PS SR", "color" : "#24211c" },
+				{ "id" : "20 PS SR", "color" : "#41352f" },
+				{ "id" : "35 PS SR", "color" : "#786d67" },
+				{ "id" : "55 PS SR", "color" : "#a3968e" }
+			]
+		},
+		{
+			"name" : "Wincos",
+			"shades": [
+				{ "id" : "20 PS SR", "color" : "#41484e" },
+				{ "id" : "30 PS SR", "color" : "#646b71" },
+				{ "id" : "45 PS SR", "color" : "#829099" },
+				{ "id" : "60 PS SR", "color" : "#a9b8bf" },
+				{ "id" : "70 PS SR", "color" : "#bcd2df" }
+			]
+		},
+		{
+			"name" : "Onyx",
+			"shades": [
+				{ "id" : "5 PS SR", "color" : "#181a1e" },
+				{ "id" : "20 PS SR", "color" : "#2a3546" },
+				{ "id" : "35 PS SR", "color" : "#607080" },
+				{ "id" : "55 PS SR", "color" : "#a3a7b3" }
+			]
+		},
+		{
+			"name" : "Charcoal",
+			"shades": [
+				{ "id" : "5 PS SR", "color" : "#261e1b" },
+				{ "id" : "20 PS SR", "color" : "#44372f" },
+				{ "id" : "35 PS SR", "color" : "#81726b" }
+			]
+		}
+	]
+},
+{
+	"brand" : "Sun-Gard",
+	"products" : [
+		{
+			"name" : "Black Pearl",
+			"shades": [
+				{ "id" : "HP 38", "color" : "#747372" },
+				{ "id" : "HP 32", "color" : "#676363" },
+				{ "id" : "HP 22", "color" : "#2d3741" },
+				{ "id" : "HP 15", "color" : "#262628" },
+				{ "id" : "HP 4", "color" : "#181619" },
+				{ "id" : "NR 70", "color" : "#b2babc" },
+				{ "id" : "NR 55", "color" : "#97989c" },
+				{ "id" : "NR 35", "color" : "#6a6869" },
+				{ "id" : "NR 20", "color" : "#282e3a" },
+				{ "id" : "NR 5", "color" : "#1a1a1c" }
+			]
+		},
+		{
+			"name" : "Shadow",
+			"shades": [
+				{ "id" : "50", "color" : "#938c85" },
+				{ "id" : "38", "color" : "#797069" },
+				{ "id" : "32", "color" : "#544f49" },
+				{ "id" : "20", "color" : "#453c33" },
+				{ "id" : "05", "color" : "#1c1b19" }
+			]
+		},
+		{
+			"name" : "GP Max",
+			"shades": [
+				{ "id" : "50", "color" : "#918785" },
+				{ "id" : "35", "color" : "#847f7b" },
+				{ "id" : "20", "color" : "#3e4044" },
+				{ "id" : "05", "color" : "#1c1c1c" }
+			]
+		}
+	]
+}] }

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Madico Tint Simulator</title>
+	<meta name="description" content="A standalone window tint simulator by Kevin Leary, http://www.kevinleary.net">
+	<link rel="stylesheet" href="css/tint.css">
+</head>
+<body>
+	<div class="grid">
+		<div class="simulator clearfix">
+			<div class="secondary">
+				<h2>Choose a tint<span>&hellip;</span></h2>
+				<form class="chooser">
+					<div id="dropdown-brand"></div>
+					<div id="dropdown-product"></div>
+					<div id="dropdown-shade"></div>
+				</form><!--// end .chooser -->
+			</div>
+			<div class="primary">
+				<h2></h2>
+				<h3></h3>
+				<div class="sedan">
+					<div class="original"></div>
+					<div class="mask"></div>
+					<div class="tint"></div>
+				</div>
+			</div>
+			<div class="loading">
+			   <span class="ball"></span>
+			   <span class="label">Loading</span>
+	      </div>
+			<p class="disclaimer">
+			   * Please consult your local dealer regarding automotive tint laws in your area.<br>
+	   		* Images are for illustrative purposes only, actual tint samples may vary
+			</p>
+		</div><!--// end .simulator -->
+	</div>
+	
+	<!-- JS Template -->
+	<script id="dropdown-filter" type="text/x-handlebars-template">
+	<div class="filter-control clearfix">
+		<label for="{{filter}}">{{filter}}</label>
+		<select id="{{filter}}">
+			 {{#each items}}
+			 <option value="{{value}}" class="{{class}}">{{label}}</option>
+			 {{/each}}
+		</select>
+	</div><!--// end .row -->
+	</script>
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+	<script src="js/tint.min.js"></script>
+</body>
+</html>
