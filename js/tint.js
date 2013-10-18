@@ -187,7 +187,7 @@ function TintSimulator() {
 			var product = self.ucwords(product);
 			
 			var shade = $('#Shade option[value="' + value + '"]').text();
-			var title = brand + ' ' + product + ' ' + shade;
+			var title = product + ' ' + shade;
 			
 			// Crossfade title effect
 			var title_selector = $('.primary h2');
