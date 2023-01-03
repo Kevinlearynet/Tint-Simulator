@@ -1,191 +1,209 @@
-Apache License
-Version 2.0, January 2004
-http://www.apache.org/licenses/
+# License
 
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+By downloading and using this software you agree to the following commercial software license terms.
 
-1. Definitions.
+## Commercial Software License Terms
 
-"License" shall mean the terms and conditions for use, reproduction, and
-distribution as defined by Sections 1 through 9 of this document.
+**PolyForm Commercial Software License Terms**
 
-"Licensor" shall mean the copyright owner or entity authorized by the copyright
-owner that is granting the License.
+**Development Preview**
 
-"Legal Entity" shall mean the union of the acting entity and all other entities
-that control, are controlled by, or are under common control with that entity.
-For the purposes of this definition, "control" means (i) the power, direct or
-indirect, to cause the direction or management of such entity, whether by
-contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the
-outstanding shares, or (iii) beneficial ownership of such entity.
+1\. _Order_. These terms, together with the order referencing them, make up a software license agreement. The software, the developer, and the customer are all identified on the order.
 
-"You" (or "Your") shall mean an individual or Legal Entity exercising
-permissions granted by this License.
+2\. _Versions_. This agreement covers only the specific version of the software on the order.
 
-"Source" form shall mean the preferred form for making modifications, including
-but not limited to software source code, documentation source, and configuration
-files.
+3\. _Modifications_. The customer may make changes to the software’s source code, compile those changes, and run changed versions of the software.
 
-"Object" form shall mean any form resulting from mechanical transformation or
-translation of a Source form, including but not limited to compiled object code,
-generated documentation, and conversions to other media types.
+4\. _Billing_.
 
-"Work" shall mean the work of authorship, whether in Source or Object form, made
-available under the License, as indicated by a copyright notice that is included
-in or attached to the work (an example is provided in the Appendix below).
+(a) _Invoices, Fees, and Payment_. The customer agrees to pay a fixed annual rate for self-hosted, self-maintained use. The customer agrees to pay the fees on the order, using the payment method on the order.
 
-"Derivative Works" shall mean any work, whether in Source or Object form, that
-is based on (or derived from) the Work and for which the editorial revisions,
-annotations, elaborations, or other modifications represent, as a whole, an
-original work of authorship. For the purposes of this License, Derivative Works
-shall not include works that remain separable from, or merely link (or bind by
-name) to the interfaces of, the Work and Derivative Works thereof.
+(b) _Billing Errors_. The customer agrees to give the vendor notice of any suspected billing error on an invoice before the deadline for payment. Both sides agree to resolve any potential billing errors promptly and in good faith. The customer agrees to pay the undisputed part of each invoice by the original deadline, and any part of the invoice resolved later within seven days of resolution.
 
-"Contribution" shall mean any work of authorship, including the original version
-of the Work and any modifications or additions to that Work or Derivative Works
-thereof, that is intentionally submitted to Licensor for inclusion in the Work
-by the copyright owner or by an individual or Legal Entity authorized to submit
-on behalf of the copyright owner. For the purposes of this definition,
-"submitted" means any form of electronic, verbal, or written communication sent
-to the Licensor or its representatives, including but not limited to
-communication on electronic mailing lists, source code control systems, and
-issue tracking systems that are managed by, or on behalf of, the Licensor for
-the purpose of discussing and improving the Work, but excluding communication
-that is conspicuously marked or otherwise designated in writing by the copyright
-owner as "Not a Contribution."
+5\. _Term and Termination_.
 
-"Contributor" shall mean Licensor and any individual or Legal Entity on behalf
-of whom a Contribution has been received by Licensor and subsequently
-incorporated within the Work.
+(a) _Term and Renewal_. This agreement will continue for one year, then renew automatically for an additional year at a time. Either side can stop this agreement from renewing by giving notice at least ninety days before it renews again.
 
-2. Grant of Copyright License.
+(b) _Termination_. Either side can terminate this agreement immediately if the other side breaches and fails to cure their breach within fourteen days of notice.
 
-Subject to the terms and conditions of this License, each Contributor hereby
-grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
-irrevocable copyright license to reproduce, prepare Derivative Works of,
-publicly display, publicly perform, sublicense, and distribute the Work and such
-Derivative Works in Source or Object form.
+6\. _Use_.
 
-3. Grant of Patent License.
+(a) _Permitted Use_. The customer may use the software only for its own computing needs and those of its subsidiaries and corporate affiliates.
 
-Subject to the terms and conditions of this License, each Contributor hereby
-grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
-irrevocable (except as stated in this section) patent license to make, have
-made, use, offer to sell, sell, import, and otherwise transfer the Work, where
-such license applies only to those patent claims licensable by such Contributor
-that are necessarily infringed by their Contribution(s) alone or by combination
-of their Contribution(s) with the Work to which such Contribution(s) was
-submitted. If You institute patent litigation against any entity (including a
-cross-claim or counterclaim in a lawsuit) alleging that the Work or a
-Contribution incorporated within the Work constitutes direct or contributory
-patent infringement, then any patent licenses granted to You under this License
-for that Work shall terminate as of the date such litigation is filed.
+(b) _Prohibited Uses_. The customer may not:
 
-4. Redistribution.
+(i) sell, lease, license, or sublicense the software or documentation
 
-You may reproduce and distribute copies of the Work or Derivative Works thereof
-in any medium, with or without modifications, and in Source or Object form,
-provided that You meet the following conditions:
+(ii) allow access to the software by others not licensed under this agreement
 
-You must give any other recipients of the Work or Derivative Works a copy of
-this License; and
-You must cause any modified files to carry prominent notices stating that You
-changed the files; and
-You must retain, in the Source form of any Derivative Works that You distribute,
-all copyright, patent, trademark, and attribution notices from the Source form
-of the Work, excluding those notices that do not pertain to any part of the
-Derivative Works; and
-If the Work includes a "NOTICE" text file as part of its distribution, then any
-Derivative Works that You distribute must include a readable copy of the
-attribution notices contained within such NOTICE file, excluding those notices
-that do not pertain to any part of the Derivative Works, in at least one of the
-following places: within a NOTICE text file distributed as part of the
-Derivative Works; within the Source form or documentation, if provided along
-with the Derivative Works; or, within a display generated by the Derivative
-Works, if and wherever such third-party notices normally appear. The contents of
-the NOTICE file are for informational purposes only and do not modify the
-License. You may add Your own attribution notices within Derivative Works that
-You distribute, alongside or as an addendum to the NOTICE text from the Work,
-provided that such additional attribution notices cannot be construed as
-modifying the License.
-You may add Your own copyright statement to Your modifications and may provide
-additional or different license terms and conditions for use, reproduction, or
-distribution of Your modifications, or for any such Derivative Works as a whole,
-provided Your use, reproduction, and distribution of the Work otherwise complies
-with the conditions stated in this License.
+(iii) share copies of the software or documentation with with others not licensed under this agreement
 
-5. Submission of Contributions.
+(iv) make so much of the functionality of the software available to others as software-as-a-service that the service competes with the software for customers
 
-Unless You explicitly state otherwise, any Contribution intentionally submitted
-for inclusion in the Work by You to the Licensor shall be under the terms and
-conditions of this License, without any additional terms or conditions.
-Notwithstanding the above, nothing herein shall supersede or modify the terms of
-any separate license agreement you may have executed with Licensor regarding
-such Contributions.
+(v) assist or allow others to use the software against the terms of this agreement
 
-6. Trademarks.
+7\. _Licenses_.
 
-This License does not grant permission to use the trade names, trademarks,
-service marks, or product names of the Licensor, except as required for
-reasonable and customary use in describing the origin of the Work and
-reproducing the content of the NOTICE file.
+(a) _Software Copyright License_. The vendor grants the customer and each authorized user a standard license for any copyrights in the software that the vendor can license, to copy, install, back up, and use the software as allowed under this agreement.
 
-7. Disclaimer of Warranty.
+(b) _Software Patent License_. The vendor grants the customer and each authorized user a standard license for any patents the vendor can license or becomes able to license, to use the software as allowed under this agreement.
 
-Unless required by applicable law or agreed to in writing, Licensor provides the
-Work (and each Contributor provides its Contributions) on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied,
-including, without limitation, any warranties or conditions of TITLE,
-NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are
-solely responsible for determining the appropriateness of using or
-redistributing the Work and assume any risks associated with Your exercise of
-permissions under this License.
+(c) _Documentation Copyright License_. The vendor grants the customer and each authorized user a standard license for any copyrights in the documentation that the vendor can license, to read, back up, and copy the documentation.
 
-8. Limitation of Liability.
+(d) _Standard License Terms_. A standard license means a nonexclusive license for the term of this agreement, for versions of the software covered by this agreement, that is conditional on payment of all fees as required by this agreement and subject to any use limits in this agreement.
 
-In no event and under no legal theory, whether in tort (including negligence),
-contract, or otherwise, unless required by applicable law (such as deliberate
-and grossly negligent acts) or agreed to in writing, shall any Contributor be
-liable to You for damages, including any direct, indirect, special, incidental,
-or consequential damages of any character arising as a result of this License or
-out of the use or inability to use the Work (including but not limited to
-damages for loss of goodwill, work stoppage, computer failure or malfunction, or
-any and all other commercial damages or losses), even if such Contributor has
-been advised of the possibility of such damages.
+(e) _No Other Licenses_. Apart from the licenses in _Section 7 (Licenses)_, this agreement does not license or assign any intellectual property rights.
 
-9. Accepting Warranty or Additional Liability.
+8\. _Open Source_.
 
-While redistributing the Work or Derivative Works thereof, You may choose to
-offer, and charge a fee for, acceptance of support, warranty, indemnity, or
-other liability obligations and/or rights consistent with this License. However,
-in accepting such obligations, You may act only on Your own behalf and on Your
-sole responsibility, not on behalf of any other Contributor, and only if You
-agree to indemnify, defend, and hold each Contributor harmless for any liability
-incurred by, or claims asserted against, such Contributor by reason of your
-accepting any such warranty or additional liability.
+(a) _Open Source Compliance_. Some components of the software may be open source software available under free, public licenses. If the public license terms for any open source component conflict with the terms of this agreement, only the public license terms apply to that component, not the terms of this agreement. If the license terms for any open source component require an offer of source code or other information related to that component, the vendor agrees to provide on written request.
 
-END OF TERMS AND CONDITIONS
+(b) _Dual Licensing_. If any part of the software is or becomes available under a public license:
 
-APPENDIX: How to apply the Apache License to your work
+(i) While the customer’s licenses continue, the customer and each authorized user must abide by this agreement, not the public license.
 
-To apply the Apache License to your work, attach the following boilerplate
-notice, with the fields enclosed by brackets "[]" replaced with your own
-identifying information. (Don't include the brackets!) The text should be
-enclosed in the appropriate comment syntax for the file format. We also
-recommend that a file or class name and description of purpose be included on
-the same "printed page" as the copyright notice for easier identification within
-third-party archives.
+(ii) After the customer’s licenses end, the customer must abide by the public license.
 
-   Copyright [yyyy] [name of copyright owner]
+(iii) The customer must abide by the terms of the public license for any versions of the software not covered by this agreement.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+9\. _Delivery_.
 
-     http://www.apache.org/licenses/LICENSE-2.0
+(a) _Materials_. The vendor agrees to deliver the following to the customer within three days:
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+(i) a copy of the software in compiled form
+
+(ii) a copy of the software’s source code in the preferred form for making changes
+
+(iii) copies of any scripts or configuration files necessary to compile the software’s source code
+
+(iv) a copy of the software’s documentation
+
+(b) _Method_. The vendor agrees to deliver all materials by e-mail or by making them available to download online, without any additional charge.
+
+(c) _License Keys_. If the software requires license keys to function, the vendor agrees to give the customer those keys by e-mail within three days. If license keys for the software expire over time, the vendor agrees to give the customer new license keys by e-mail at least two weeks before the last keys expire. The customer agrees to share license keys only as required for use of the software as allowed under this this agreement, and to secure its license keys at least as well as its confidential business information.
+
+10\. _No Technical Support_. The vendor does not agree to provide technical support for the software under this agreement.
+
+11\. _Warranties_.
+
+(a) _Perform As Documented_. The vendor guarantees that the software will perform as described in its documentation during the warranty period on the order, except when:
+
+(i) using older version of the software than the latest provided under this agreement
+
+(ii) using the software with modifications
+
+(iii) running the software using hardware or software different from that required, according to the documentation
+
+(iv) combining the software with other software or hardware in ways not described in the documentation
+
+(b) _Malware_. The vendor guarantees that the software it delivers will be free of malicious code, such as computer worms and viruses.
+
+(c) _Limiting Code_. The developer guarantees that the software it delivers will be free of code that automatically limits or disables software functionality, other than:
+
+(i) code that limits or disables functionality on failure to validate license keys
+
+(ii) code that limits or disables functionality based on automatic monitoring of agreed limits on usage
+
+(d) _Software Dependencies_. If the software depends on, installs, configures, or links to other software in order to function, the vendor guarantees that those software dependencies will be either provided in the copies of the software delivered to the customer or generally available for the customer to download, free or charge, from a well known website or Internet service, such as an open source software package repository.
+
+12\. _Liability_.
+
+(a) **_Disclaimer_**. **_Section 11 (Warranties) sets out the only warranties the vendor provides for the software. The vendor disclaims any warranties the law might otherwise imply, like warranties of merchantability, fitness for any particular purpose, title, or noninfringement._**
+
+(b) **_Unforeseeable Damages_**. **_Neither side will be liable for breach-of-contract damages they could not have reasonably foreseen when entering into this agreement._**
+
+(c) **_Liability Cap_**. **_Except for Section 12(d) (Uncapped Liabilities), neither side’s total liability for breach of this agreement will exceed the amount of fees the vendor received from the customer under this agreement during the twelve months before the first claim is made. This limit applies even if the side liable is advised that the other may suffer damages, and even if the customer paid no fees at all._**
+
+(d) _Uncapped Liabilities_. _Section 12(c) (Liability Cap)_ does not apply to:
+
+(i) the customer’s obligations to pay fees
+
+(ii) the vendor’s obligations to indemnify the customer
+
+(iii) liabilities the law requires to be unlimited
+
+13\. _Indemnities_. These indemnities apply as long as the customer has paid all licensing fees as required by this agreement:
+
+(a) _General Indemnity_. Subject to _Section 13(e) (Indemnification Process)_, the vendor agrees to indemnify the customer for legal claims by others alleging that the software infringes any copyright, trademark, or trade secret right, or breaks any law.
+
+(b) _Patent Indemnity_. The vendor will not indemnify the customer for any claims by others alleging that the software infringes any patent.
+
+(c) _Scope of Indemnity_. Throughout this agreement, to indemnify means to indemnify and hold the customer and its personnel harmless for all liability, expenses, damages, costs, and reasonable attorney fees, as well as to defend the indemnified party.
+
+(d) _Only Remedy_. Both sides agree that indemnification will be the only legal remedy for claims covered by indemnity.
+
+(e) _Indemnification Process_. Both sides agree that to receive indemnification under this agreement, they must give notice of any covered claim quickly, allow the other side to control investigation, defense, and settlement, and cooperate with those efforts. Both sides agree that if they fail to give notice of any covered claim quickly, indemnification will not cover amounts that could have been defended against or mitigated if notice had been given quickly. Both sides agree that if they take control of the defense and settlement of any covered claim, they will not agree to any settlements that admit fault or impose obligations on the other side without their signed, written permission.
+
+(f) _Repair, Replace, Refund_. If the vendor or the customer receives written notice of a claim that the software infringes any intellectual property right or breaks any law, or vendor reasonably anticipates a claim of that kind:
+
+(i) The developer may provide the customer a new version of the software that no longer infringes or breaks the law. That new version will be covered by this agreement. The customer will not pay any additional fee for the new version.
+
+(ii) If the problem is infringement, the developer may get licenses for the customer so that the customer’s use of the software no longer infringes.
+
+(iii) If the problem is illegality, the developer may get the approvals, licenses, or other requirements needed to abide by the law.
+
+(iv) The developer may refund any fees the customer has prepaid under this agreement for time remaining in the term of this agreement, on a proportional basis, and end this agreement immediately by giving the customer notice.
+
+14\. _Tax_.
+
+(a) _Taxes on Fees_. The customer agrees to pay all tax on fees under this agreement, except tax on the vendor’s income.
+
+(b) _Tax Withholding_. If the customer is located outside the United States and local law requires the customer to withhold taxes on fees paid under this agreement:
+
+(i) The customer agrees to make the required tax withholding payments for the vendor by deducting the right amounts from payments to the vendor and paying them to the proper tax authorities.
+
+(ii) The customer agrees to increase the amount of each payment made under this agreement, to offset withholding, so that the vendor receives the full amount owed.
+
+(iii) The customer agrees to give the vendor relevant official tax documentation and tax receipts showing that withholding was required and that proper withholding payment was made, as soon as possible after making any withholding payment.
+
+15\. _General Contract Terms_.
+
+(a) _Notices_. Both sides agree to give notice under this agreement, the side giving notice must send by e-mail to the address the recipient gave with its signature, or to a different address given later for notices going forward, in the English language. If either side finds that e-mail can’t be delivered to the e-mail address given, the sender may give notice by registered mail to the address on file for the recipient with the state under whose laws it is organized.
+
+(b) _Governing Law_. This agreement will be governed by the law of the jurisdiction of the address the vendor gives with its signature.
+
+(c) _No CISG_. The United Nations Convention on Contracts for the International Sale of Goods will not apply to this agreement.
+
+(d) _No UCITA_. As far as the law allows, the Uniform Computer Information Transactions Act will not apply to this agreement.
+
+(e) _Export Control_. The customer may not export or reexport the software or its documentation from the vendor’s home country without the vendor’s signed, written permission.
+
+(f) _Dispute Resolution_. Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by arbitration in the city nearest the address the vendor gives with its signature before one arbitrator. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+
+(g) _Enforcement_. Only the parties may enforce rights under this agreement.
+
+(h) _Forum for Disputes_. Both sides agree to bring any lawsuits related to this agreement in courts in the city nearest the address the vendor gives with its signature. Both sides consent to the exclusive jurisdiction of those courts and waive any objection that they would be an inconvenient forum for a lawsuit. Both sides agree that the other side can enforce judgments from those courts in other jurisdictions.
+
+(i) _Only Terms_. Both sides intend the terms of this agreement, together with the order, as the final, complete, and only expression of their agreement about the software.
+
+(j) _Unenforceable Terms_. If a court decides that any part of this agreement is invalid or unenforceable for any reason, and that enforcing the rest of this agreement would not defeat the purpose of this agreement, then rest of this agreement will still apply.
+
+(k) _Excuses_. Neither side will be liable for any failure or delay meeting any obligation under this agreement caused by:
+
+(i) failure of the other side or its personnel to meet their obligations under this agreement
+
+(ii) actions done or delayed at the written request of the other side
+
+(iii) fire, flood, earthquake, and other natural disasters
+
+(iv) declared and undeclared wars, acts of terrorism, sabotage, riots, civil disorder, rebellions, and revolutions
+
+(v) extraordinary malfunction of Internet infrastructure, data centers, or communication utilities
+
+(vi) government actions taken in response to any of these causes
+
+(l) _Amendments_. Both sides may change or add to the terms of this agreement only by signing a written amendment.
+
+(m) _Waivers_. Both sides will waive terms of this agreement, if at all, only in signed writing.
+
+(n) _No Assignment_. Neither side may assign any right under this agreement without the other side’s signed, written permission. Neither side will unreasonably refuse permission. Any attempt to assign against the terms of this agreement will have no legal effect.
+
+(o) _No Delegation_. Neither side may delegate any performance under this agreement. Any attempt to delegate will have no legal effect.
+
+## Permission
+
+Each contributor licenses you to do everything with each PolyForm license that would otherwise infringe that contributor's copyright in it.
+
+If you make changes to a PolyForm license, you must remove all mention of "PolyForm" and polyformproject.org, as well.
+
+***As far as the law allows, PolyForm licenses come as is, without any warranty at all, and no contributor will be liable to anyone for any damages related to the licenses or their use, for any kind of legal claim.***
